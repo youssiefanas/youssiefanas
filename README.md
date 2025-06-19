@@ -2,8 +2,8 @@ youssiefanas/README.md
 
 I'm Youssief Anas, I'm a M.Sc. Student in Marine and Maritime Intelligent Robotics | EMJMD MIR.  
 
-- 🔭 I’m currently working on Robotics projects with ROS  
-- 🌱 I’m currently learning Machine Vision and AI  
+- 🔭 I’m currently working on Robotics projects with ROS 2  
+- 🌱 I’m currently learning Marine Robotics, Navigation, Perception, ...   
 - 📫 How to reach me: youssiefanas@gmail.com  
 
 <!--
